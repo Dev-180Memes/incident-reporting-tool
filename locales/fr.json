@@ -1,0 +1,16 @@
+{
+    "title": "Titre",
+    "description": "Description",
+    "impact": "Impact",
+    "actions_taken": "Actions prises",
+    "severity_level": "Niveau de gravité",
+    "reported_by": "Rapporté par",
+    "submit_report": "Soumettre le rapport",
+    "view_reports": "Voir les rapports",
+    "update_report": "Mettre à jour le rapport",
+    "delete_report": "Supprimer le rapport",
+    "success_submit": "Rapport d'incident soumis avec succès",
+    "success_update": "Rapport d'incident mis à jour avec succès",
+    "success_delete": "Rapport d'incident supprimé avec succès",
+    "error_report_not_found": "Rapport non trouvé!"
+}

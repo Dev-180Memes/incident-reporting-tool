@@ -1,0 +1,16 @@
+{
+    "title": "Title",
+    "description": "Description",
+    "impact": "Impact",
+    "actions_taken": "Actions Taken",
+    "severity_level": "Severity Level",
+    "reported_by": "Reported By",
+    "submit_report": "Submit Report",
+    "view_reports": "View Reports",
+    "update_report": "Update Report",
+    "delete_report": "Delete Report",
+    "success_submit": "Incident Report Submitted Successfully",
+    "success_update": "Incident Report Updated Successfully",
+    "success_delete": "Incident Report Deleted Successfully",
+    "error_report_not_found": "Report not found!"
+}
